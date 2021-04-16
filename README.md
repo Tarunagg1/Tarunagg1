@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 
 https://www.linkedin.com/in/tarun-aggarwal-tech/
 
+🛠  Tech Stack
+Python  JavaScript  Java  React  Node.js  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  Eclipse\

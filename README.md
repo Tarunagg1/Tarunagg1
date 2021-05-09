@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunagg1" alt="tarunagg1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@tarun42163516" target="blank"><img src="https://img.shields.io/twitter/follow/@tarun42163516?logo=twitter&style=for-the-badge" alt="@tarun42163516" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tarun42163516" target="blank"><img src="https://img.shields.io/twitter/follow/tarun42163516?logo=twitter&style=for-the-badge" alt="tarun42163516" /></a> </p>
 
 - 👨‍💻 All of my projects are available at Github [tarunaggarwal.tk](tarunaggarwal.tk)
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tarunagg1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tarunagg1" height="30" width="40" /></a>
-<a href="https://twitter.com/@tarun42163516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@tarun42163516" height="30" width="40" /></a>
+<a href="https://twitter.com/tarun42163516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="tarun42163516" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarun-aggarwal-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tarun-aggarwal-tech" height="30" width="40" /></a>
 <a href="https://fb.com/tarun.aggarwal.1004837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="tarun.aggarwal.1004837" height="30" width="40" /></a>
 <a href="https://instagram.com/programing.point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="programing.point" height="30" width="40" /></a>

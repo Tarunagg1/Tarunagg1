@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@tarun42163516" target="blank"><img src="https://img.shields.io/twitter/follow/@tarun42163516?logo=twitter&style=for-the-badge" alt="@tarun42163516" /></a> </p>
 
-- 👨‍💻 All of my projects are available at Github [https://www.tarunaggarwal.tk](https://www.tarunaggarwal.tk)
+- 👨‍💻 All of my projects are available at Github [tarunaggarwal.tk](tarunaggarwal.tk)
 
 - 📫 How to reach me Email **tarunaggarwaltech@gmail.com**
 
@@ -15,11 +15,11 @@
 <p align="left">
 <a href="https://dev.to/tarunagg1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tarunagg1" height="30" width="40" /></a>
 <a href="https://twitter.com/@tarun42163516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@tarun42163516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tarun-aggarwal-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-aggarwal-tech/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tarun.aggarwal.1004837/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tarun.aggarwal.1004837/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/programing.point/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/programing.point/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/tarunaggarwal421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tarunaggarwal421" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tarunaggarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tarunaggarwal/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarun-aggarwal-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tarun-aggarwal-tech" height="30" width="40" /></a>
+<a href="https://fb.com/tarun.aggarwal.1004837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="tarun.aggarwal.1004837" height="30" width="40" /></a>
+<a href="https://instagram.com/programing.point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="programing.point" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tarunaggarwal421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="tarunaggarwal421" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tarunaggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="tarunaggarwal" height="30" width="40" /></a>
 <a href="https://discord.gg/taruntech#6930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="taruntech#6930" height="30" width="40" /></a>
 </p>
 

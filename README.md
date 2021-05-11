@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tarun Aggarwal</h1>
 <h3 align="center">An Aspiring Developer buliding quality websites and applications with Html, Css, Javascript, MERN, Java and Sql or Mongodb and getting better day by day</h3>
-
+<p align="center">
+  <img width="700px" height="400px" src="code1.gif" alt="hello">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunagg1&label=Profile%20views&color=0e75b6&style=flat" alt="tarunagg1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunagg1" alt="tarunagg1" /></a> </p>
@@ -14,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tarunagg1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tarunagg1" height="30" width="40" /></a>
-<a href="https://twitter.com/tarun42163516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="tarun42163516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarun-aggarwal-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tarun-aggarwal-tech" height="30" width="40" /></a>
+<a href="https://twitter.com/tarun42163516" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="tarun42163516" height="30" width="40" /></a>
+<p align="left"> <a href="https://linkedin.com/in/tarun-aggarwal-tech" target="blank"><img align="center" src="https://img.shields.io/badge/LInkedin-Follow-blue?style=for-the-badge&logo=Linkedin" alt="tarun aggarwal" /></a> </p>
 <a href="https://fb.com/tarun.aggarwal.1004837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="tarun.aggarwal.1004837" height="30" width="40" /></a>
 <a href="https://instagram.com/programing.point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="programing.point" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tarunaggarwal421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="tarunaggarwal421" height="30" width="40" /></a>

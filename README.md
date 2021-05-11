@@ -58,10 +58,17 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunagg1&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" />
+[![Vishesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarunagg1&theme=xcode)](https://git.io/tarunagg1)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunagg1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=tokyonight" />
+</p>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunagg1&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" /> -->
 
 ##  Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=chartreuse-dark)](https://github.com/tarunagg1/github-readme-streak-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagg1&layout=compact&theme=chartreuse-dark" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagg1&layout=compact&theme=chartreuse-dark" /> -->

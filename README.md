@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/tarunaggarwal421" target="_blank">
-  <img align="left" alt="codeSTACKr | Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/hackerrank.png" />
+  <img align="left" alt="codeSTACKr | Facebook" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 
 

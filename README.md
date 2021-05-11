@@ -53,8 +53,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C++](https://img.shields.io/badge/-Php-333333?style=flat&logo=c%2B%2B)
-![C++](https://img.shields.io/badge/-Angular-333333?style=flat&logo=c%2B%2B)
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=c%2B%2B)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=c%2B%2B)
 
 <br/>
 
@@ -65,6 +65,4 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagg1&layout=compact&theme=chartreuse-dark" />
-
-
 

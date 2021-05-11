@@ -53,14 +53,18 @@
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-Php-333333?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-Angular-333333?style=flat&logo=c%2B%2B)
+
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunagg1&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" />
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
+##  Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=chartreuse-dark)](https://github.com/tarunagg1/github-readme-streak-stats)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagg1&layout=compact&theme=chartreuse-dark" />
+
 
 

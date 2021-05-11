@@ -65,10 +65,14 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=tokyonight" />
 </p>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunagg1&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AnkitDroidGit github stats" /> -->
 
 ##  Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=chartreuse-dark)](https://github.com/tarunagg1/github-readme-streak-stats)
 
+## My Github Activity ⚡
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagg1&layout=compact&theme=chartreuse-dark" /> -->
+1. 🎉 Merged PR [#31](https://github.com/tarunagg1/Arduino-based-garbage-detector/pull/31) in [visheshk27/Arduino-based-garbage-detector](https://github.com/tarunagg1/Arduino-based-garbage-detector)
+2. 💪 Opened PR [#31](https://github.com/tarunagg1/Arduino-based-garbage-detector/pull/31) in [visheshk27/Arduino-based-garbage-detector](https://github.com/tarunagg1/Arduino-based-garbage-detector)
+3. 🗣 Commented on [#15](https://github.com/tarunagg1/tarunagg1.github.io/issues/15) in [visheshk27/visheshk27.github.io](https://github.com/visheshk27/tarunagg1.github.io)
+4. 🗣 Commented on [#14](https://github.com/tarunagg1/tarunagg1.github.io/issues/14) in [visheshk27/visheshk27.github.io](https://github.com/visheshk27/tarunagg1.github.io)
+

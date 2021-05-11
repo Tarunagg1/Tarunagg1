@@ -15,11 +15,29 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" alt="codeSTACKr | Twitter" width ="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />](https://twitter.com/tarun42163516)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-  <a href="https://tarunaggarwal.tk">
+
+<a href="https://tarunaggarwal.tk">
+  <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />
+</a>
+
+<a href="https://twitter.com/tarun42163516" target="_blank">
+  <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/tarun-aggarwal-tech/" target="_blank">
+  <img align="left" alt="codeSTACKr | Linkdin" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
+
+<a href="https://www.facebook.com/tarun.aggarwal.1004837/" target="_blank">
+  <img align="left" alt="codeSTACKr | Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+</a>
+
+<a href="https://www.hackerrank.com/tarunaggarwal421" target="_blank">
+  <img align="left" alt="codeSTACKr | Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/hackerrank.png" />
+</a>
+
+
+<a href="https://tarunaggarwal.tk" target="_blank">
     <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />
 </a>
 

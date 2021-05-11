@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" alt="codeSTACKr | Twitter" width ="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width ="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />](https://twitter.com/tarun42163516)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="codeSTACKr | facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />][website]
+[<img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />](https://tarunaggarwal.tk)
 
 
 

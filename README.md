@@ -16,10 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<a href="https://tarunaggarwal.tk">
-  <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />
-</a>
-
 <a href="https://twitter.com/tarun42163516" target="_blank">
   <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
@@ -69,10 +65,10 @@
 ##  Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunagg1&theme=chartreuse-dark)](https://github.com/tarunagg1/github-readme-streak-stats)
 
-## My Github Activity ⚡
+<!-- ## My Github Activity ⚡ -->
 
-1. 🎉 Merged PR [#31](https://github.com/tarunagg1/Arduino-based-garbage-detector/pull/31) in [visheshk27/Arduino-based-garbage-detector](https://github.com/tarunagg1/Arduino-based-garbage-detector)
+<!-- 1. 🎉 Merged PR [#31](https://github.com/tarunagg1/Arduino-based-garbage-detector/pull/31) in [visheshk27/Arduino-based-garbage-detector](https://github.com/tarunagg1/Arduino-based-garbage-detector)
 2. 💪 Opened PR [#31](https://github.com/tarunagg1/Arduino-based-garbage-detector/pull/31) in [visheshk27/Arduino-based-garbage-detector](https://github.com/tarunagg1/Arduino-based-garbage-detector)
 3. 🗣 Commented on [#15](https://github.com/tarunagg1/tarunagg1.github.io/issues/15) in [visheshk27/visheshk27.github.io](https://github.com/visheshk27/tarunagg1.github.io)
 4. 🗣 Commented on [#14](https://github.com/tarunagg1/tarunagg1.github.io/issues/14) in [visheshk27/visheshk27.github.io](https://github.com/visheshk27/tarunagg1.github.io)
-
+ -->

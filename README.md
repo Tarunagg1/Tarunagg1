@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/tarun42163516" target="blank"><img src="https://img.shields.io/twitter/follow/tarun42163516?logo=twitter&style=for-the-badge" alt="tarun42163516" /></a> </p>
 
-- 👨‍💻 All of my projects are available at Github [tarunaggarwal.tk](tarunaggarwal.tk)
-
-- 📫 How to reach me Email **tarunaggarwaltech@gmail.com**
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyushGu60343848?style=social)](https://twitter.com/AyushGu60343848)
+[![Linkedin: imthepk](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-gupta-68562b167/)](https://www.linkedin.com/in/ayush-gupta-68562b167/)
+[![GitHub iampawan](https://img.shields.io/github/followers/Ayush32?style=social)](https://github.com/Ayush32)
+[![website](https://img.shields.io/badge/Portfolio-Ayush-2648ff?style=flat-square&logo=google-chrome)](https://ayush32.github.io/-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

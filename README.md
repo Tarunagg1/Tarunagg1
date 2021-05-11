@@ -7,12 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunagg1" alt="tarunagg1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tarun42163516" target="blank"><img src="https://img.shields.io/twitter/follow/tarun42163516?logo=twitter&style=for-the-badge" alt="tarun42163516" /></a> </p>
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyushGu60343848?style=social)](https://twitter.com/AyushGu60343848)
-[![Linkedin: imthepk](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-gupta-68562b167/)](https://www.linkedin.com/in/ayush-gupta-68562b167/)
-[![GitHub iampawan](https://img.shields.io/github/followers/Ayush32?style=social)](https://github.com/Ayush32)
-[![website](https://img.shields.io/badge/Portfolio-Ayush-2648ff?style=flat-square&logo=google-chrome)](https://ayush32.github.io/-Portfolio/)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyushGu60343848?style=social)](https://twitter.com/tarun42163516)
+[![Linkedin: imthepk](https://img.shields.io/badge/-Tarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-aggarwal-tech/)](https://www.linkedin.com/in/tarun-aggarwal-tech/)
+[![GitHub iampawan](https://img.shields.io/github/followers/Ayush32?style=social)](https://github.com/tarunagg1)
+[![website](https://img.shields.io/badge/Portfolio-Tarun-2648ff?style=flat-square&logo=google-chrome)](https://tarunaggarwal.tk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

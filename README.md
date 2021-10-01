@@ -1,5 +1,5 @@
-<h1 align="center">Hellow 👋,Geeks</h1>
-<h3 align="center">An Aspiring Developer buliding quality websites and applications with Html, Css, Javascript, MERN, Java and Sql or Mongodb and getting better day by day</h3>
+<h1 align="center">Hello 👋,Geeks</h1>
+<h align="center">I am Tarun Aggarwal. I have strong media and communication professional with a Master in computer Application focused in Computer Science and engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</h5>
 <p align="center">
   <img width="700px" height="400px" src="code1.gif" alt="hello">
 </p>

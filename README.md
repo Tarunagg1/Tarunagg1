@@ -1,10 +1,12 @@
 <h1 align="center">Hello 👋,Geeks</h1>
 <h align="center">I am Tarun Aggarwal. I have strong media and communication professional with a Master in computer Application focused in Computer Science and engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</h5>
 <br />
+<br>
 <p align="center">
   <img width="700px" height="400px" src="code1.gif" alt="hello">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunagg1&label=Profile%20views&color=0e75b6&style=flat" alt="tarunagg1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunagg1" alt="tarunagg1" /></a> </p>
 
